@@ -1,5 +1,5 @@
 # object-detection
-Object detection using IP Webcam and Keras or AWS Recognition
+Object detection using IP Webcam and Keras or AWS Rekognition
 
 Works with IP Webcam on Android phone which can be download using the following link:
 https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en
